@@ -1,0 +1,5 @@
+{
+  "name": "Dungeon Pool",
+  "description": "A physics-based pool game. Control the cue ball, pot all the colored balls into random pockets, and master the angles.",
+  "requestFramePermissions": []
+}
